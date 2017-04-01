@@ -1,0 +1,37 @@
+<br /><div style="text-decoration:underline;"> Seniors </div>
+	<ul>
+		<li> Ben Adams </li>
+		<li> Graham Billey </li>
+		<li> Conrad Brown </li>
+		<li> James Buckley </li>
+		<li> Steve Burnett </li>
+		<li> Nick Kirkpatrick </li>
+		<li> Nate Lambert </li>
+		<li> Mike Spann </li>
+		<li> Alexander Szust </li>
+		<li> Matt Transeth </li>
+	</ul>
+	<div style="text-decoration:underline;"> Juniors </div>
+	<ul>
+		<li> Dan Kim </li>
+		<li> Tony Mazur </li>
+		<li> Ronnie Schroeder </li>
+		<li> Jordan Smith </li>
+		<li> Eitan Tal </li>
+		<li> Alex Yehia </li>
+	</ul>
+	<div style="text-decoration:underline;"> Sophomores </div>
+	<ul>
+		<li> Alex Benet </li>
+		<li> David Ciccarelli </li>
+		<li> Doug Finkelstein </li>
+		<li> Thomas Parish </li>
+		<li> Sam Polson </li>
+		<li> Austin Zimmer </li>
+	</ul>
+	<div style="text-decoration:underline;"> Freshmen </div>
+	<ul>
+		<li> Andre Degla </li>
+		<li> Carl Kershaw </li>
+		<li> Chris Welch </li>
+	</ul>

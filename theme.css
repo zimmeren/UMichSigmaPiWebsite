@@ -1,0 +1,172 @@
+body
+{
+   background-color:#660099;
+}
+#back
+{
+   width:800px;
+   margin:auto;
+   background-color:white;
+   border-width:2px;
+   border-style:solid;
+   border-color:lightgray;
+   font-size:15px;
+}
+#content
+{
+   text-align:center;
+   margin: auto;
+}
+#textheader
+{
+	text-align:center;
+	background-color:white;
+	width:800px;
+	height:0px;
+	margin: auto;
+	font-size:25px;
+	border-top-width:0px;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-style:solid;
+	border-color:lightgray;
+}
+#header
+{
+	text-align:center;
+	width:800px;
+	height:260px;
+	margin: auto;
+	border-top-width:2px;
+	border-bottom-width:2px;
+	border-left-width:2px;
+	border-right-width:2px;
+	border-style:solid;
+	border-color:lightgray;
+}
+#NavBar
+{
+	list-style: none;
+	list-style-position: inside;
+	background-color:lightgray;
+	margin: auto;
+	width:760px;
+	height:22px;
+	border-top-width:0px;
+	border-bottom-width:0px;
+	border-left-width:2px;
+	border-right-width:2px;
+	border-style:solid;
+	border-color:lightgray;
+}
+#NavBar li
+{
+	background-color:white;
+	text-align:center;
+	float: left;
+}
+#NavBar li a
+{
+	display: block;
+	height:22px;
+}
+#NavBar a:link 
+{
+    text-decoration:none;
+    color:black;
+}
+#home
+{
+	width:68px;
+}
+#rush
+{
+	width:68px;
+}
+#history
+{
+	width:88px;
+}
+#brothers
+{
+	width:93px;
+}
+#philanthropy
+{
+	width:122px;
+}
+#photos
+{
+	width:83px;
+}
+#findus
+{
+	width:78px;
+}
+#contactus
+{
+	width:118px;
+}
+#NavBar a:visited 
+{
+    text-decoration:none;
+    color:black;
+}
+
+#NavBar a:active 
+{
+    text-decoration:none;
+    color:black;
+}
+#NavBar a:hover
+{ 
+	background-color:lightgray;
+}
+
+#BrothersNavBar
+{
+	list-style: none;
+	list-style-position: inside;
+	background-color:lightgray;
+	font-size:22px;
+	width:758px;
+	height:28px;
+	border-top-width:2px;
+	border-bottom-width:2px;
+	border-left-width:2px;
+	border-right-width:2px;
+	border-style:solid;
+	border-color:lightgray;
+}
+#BrothersNavBar li
+{
+	background-color:white;
+	text-align:center;
+	float: left;
+}
+#BrothersNavBar li a
+{
+	display: block;
+	height:28px;
+}
+#BrothersNavBar a:link 
+{
+    text-decoration:none;
+    color:black;
+}
+#BrothersNavBar a:visited 
+{
+    text-decoration:none;
+    color:black;
+}
+
+#BrothersNavBar a:active 
+{
+    text-decoration:none;
+    color:black;
+}
+#BrothersNavBar a:hover
+{ 
+	background-color:lightgray;
+}
